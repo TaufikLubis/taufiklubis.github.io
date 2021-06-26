@@ -1,0 +1,24 @@
+.jumbotron {
+  padding: 6rem 1rem;
+}
+
+h1,
+h2 {
+  font-family: Cirka, Palatino Linotype, Book Antiqua, Palatino, serif;
+}
+
+section {
+  padding-top: 5rem;
+}
+
+.jumbotron a {
+  padding-left: 25px;
+  text-decoration: none;
+}
+
+.jumbotron hr {
+  border: none;
+  border-bottom: 5px dotted gray;
+  width: 30%;
+  margin: auto;
+}
